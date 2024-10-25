@@ -10,6 +10,6 @@ A repository with notebooks and model for [Recsys course competition](https://ww
 
 **Основные ноутбуки:** 
 - girls_trying_to_pass_recsys.ipynb - 0.0884
-  -- Файл - test_submit_13.csv
+  - Файл - test_submit_13.csv
 - recsys_competition - 0.0726
-  -- Файл - more_knn_params.csv
+  - Файл - more_knn_params.csv
