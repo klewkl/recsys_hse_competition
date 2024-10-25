@@ -8,3 +8,8 @@ A repository with notebooks and model for [Recsys course competition](https://ww
 - Test-train-val splits: Староверова Анна 
 - Model candidates test: Богославская Анна, Староверова Анна, Павлеева Мария
 
+**Основные ноутбуки:** 
+- girls_trying_to_pass_recsys.ipynb - 0.0884
+- Файл - test_submit_13.csv
+- recsys_competition - 0.0726
+- Файл - more_knn_params.csv
