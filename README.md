@@ -6,5 +6,5 @@ A repository with notebooks and model for [Recsys course competition](https://ww
 **Зоны ответственности:**
 - Feature generation: Богославская Анна, Яшина Вероника 
 - Test-train-val splits: Староверова Анна 
-- Model candidates test: Богославская Анна, Староверова Анна
+- Model candidates test: Богославская Анна, Староверова Анна, Павлеева Мария
 
